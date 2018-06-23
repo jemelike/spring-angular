@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jemelike/spring-angular-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jemelike/spring-angular-frontend.git
